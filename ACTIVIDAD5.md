@@ -249,6 +249,7 @@ $41)\frac{-10 + 8i}{6 + i}:$
 $42)\frac{2 - 2i}{4 - 10i}:$
 
 **Calcula el valor absoluto de los siguientes números complejo**
+
 $43)|-9 - 9i|:$
 
 $$
