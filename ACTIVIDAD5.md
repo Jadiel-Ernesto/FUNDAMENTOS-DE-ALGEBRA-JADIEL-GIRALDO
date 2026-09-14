@@ -5,6 +5,7 @@
 Los ejercicios deben estar bien resueltos y con los pasos explicados.
 
 **Ubica los siguientes números complejos en el plano**
+
 $19)-2 + 3i:$
 
 $20)1 - 2i:$
