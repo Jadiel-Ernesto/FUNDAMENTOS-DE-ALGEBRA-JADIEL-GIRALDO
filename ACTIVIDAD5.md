@@ -8,15 +8,28 @@ Los ejercicios deben estar bien resueltos y con los pasos explicados.
 
 $19)-2 + 3i:$
 
+![Image](19.png)
+
 $20)1 - 2i:$
+
+![Image](20.png)
 
 $21)-4 + 3i:$
 
+![Image](21.png)
+
 $22)3 + i:$
+
+![Image](22.png)
 
 $23)-4 - 4i:$
 
+![Image](23.png)
+
 $24)-2 - i:$
+
+![Image](24.png)
+
 
 **Resuelve las siguientes operaciones con los números complejos**
 
@@ -308,16 +321,25 @@ $$
 
 **Resuelve las siguiente potencias de i**
 $49)i^5:$
+![Image](49.png)
 
 $50)i^{10}:$
+![Image](50.png)
 
 $51)i^{20}:$
+![Image](51.png)
 
 $52)i^{35}:$
 
+![Image](52.png)
+
 $53)i^{256}:$
 
+![Image](53.png)
+
 $54)i^{5^5}:$
+
+![Image](54.png)
 
 **Convierte los siguientes números complejos a su forma polar**
 
@@ -397,26 +419,49 @@ $$
 
 $61)\cos 30^\circ + i \sin 30^\circ:$
 
+![Image](61.png)
+
 $62)2(\cos 60^\circ + i \sin 60^\circ):$
+
+![Image](62.png)
 
 $63)1.5(\cos 90^\circ + i \sin 90^\circ):$
 
+![Image](63.png)
+
 $64)2.5(\cos 120^\circ + i \sin 120^\circ):$
+
+![Image](64.png)
 
 $65)4(\cos 135^\circ + i \sin 135^\circ):$
 
+![Image](65.png)
+
 $66)3(\cos 180^\circ + i \sin 180^\circ):$
+
+![Image](66.png)
 
 **Obtén TODAS las raices de los siguientes complejos**
 
 $67)2\text{ raíces cuadradas de } 4(\cos 30^\circ + i \sin 30^\circ):$
 
+![Image](67.png)
+
 $68)2\text{ raíces cuadradas de } 3(\cos 90^\circ + i \sin 90^\circ):$
+
+![Image](68.png)
 
 $69)3\text{ raíces cúbicas de } -4\sqrt{2} + 4i\sqrt{2}:$
 
+![Image](69.png)
+
 $70)3\text{ raíces cúbicas de } -\frac{27}{8}:$
+
+![Image](70.png)
 
 $71)5\text{ raíces de } -32i:$
 
+![Image](71.png)
+
 $72)6\text{ raíces de } 729:$
+![Image](72.png)
