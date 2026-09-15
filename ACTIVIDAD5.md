@@ -240,14 +240,21 @@ $37)\frac{10 - 7i}{1 + 3i}:$
 ![Image](37.png)
 
 $38)\frac{4 + 2i}{-1 - 10i}:$
+![Image](38.png)
 
 $39)\frac{1 + 4i}{-1 - 6i}:$
+![Image](39.png)
 
 $40)\frac{-8 + 4i}{1 + i}:$
+![Image](40.png)
 
 $41)\frac{-10 + 8i}{6 + i}:$
+![Image](41.png)
 
 $42)\frac{2 - 2i}{4 - 10i}:$
+
+![Image](42.png)
+
 
 **Calcula el valor absoluto de los siguientes números complejo**
 
