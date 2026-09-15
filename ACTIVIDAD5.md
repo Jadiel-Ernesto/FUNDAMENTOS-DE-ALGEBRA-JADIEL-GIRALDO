@@ -266,7 +266,7 @@ $41)\frac{-10 + 8i}{6 + i}:$
 
 $42)\frac{2 - 2i}{4 - 10i}:$
 
-![Image](42.png)
+![Image](Screenshot42.png)
 
 
 **Calcula el valor absoluto de los siguientes números complejo**
@@ -464,4 +464,5 @@ $71)5\text{ raíces de } -32i:$
 ![Image](71.png)
 
 $72)6\text{ raíces de } 729:$
-![Image](72.png)
+
+![Image](Screenshot72.png)
