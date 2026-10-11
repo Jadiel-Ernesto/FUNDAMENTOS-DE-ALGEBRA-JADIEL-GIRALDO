@@ -1,6 +1,4 @@
-# Resolución de Ejercicios de Productos Notables y Polinomios
-
-A continuación se presenta la solución paso a paso para cada uno de los ejercicios mostrados en la imagen, utilizando las fórmulas de productos notables correspondientes (binomio al cuadrado, binomios conjugados, multiplicación de binomios con un término común y binomio al cubo).
+# Jadiel Ernesto Giraldo Lizama
 
 ---
 
