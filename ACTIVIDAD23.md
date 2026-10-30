@@ -90,8 +90,9 @@ $$(-1, 4)$$
 
 - **GRAFICAS**
   
+![la primera parte de graficas](CAPTURAGRAFICA1)
 
-
+![la segunda parte de graficas](CAPTURAGRAFICA2)
 
 - **Resultado:** Línea recta que pasa por $(0,-3)$ y $(-1,4)$ con pendiente $m = -7$.
 
